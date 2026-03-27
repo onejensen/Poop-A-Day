@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Poop-A-Day</string>
+    <string name="tab_tracker">Registro</string>
+    <string name="tab_log">Historial</string>
+    <string name="tab_stats">Estadísticas</string>
+    <string name="tab_profile">Perfil</string>
+    <string name="today">hoy</string>
+    <string name="tap_the_toilet">¡Toca el váter!</string>
+    <string name="history_title">Historial 💩</string>
+    <string name="statistics_title">Estadísticas 📊</string>
+    <string name="stat_today">Hoy</string>
+    <string name="stat_this_week">Esta semana</string>
+    <string name="stat_this_month">Este mes</string>
+    <string name="stat_this_year">Este año</string>
+    <string name="streak_days">días de racha</string>
+    <string name="total_logs">registros totales</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="export_data">Exportar datos</string>
+    <string name="import_data">Importar datos</string>
+    <string name="version">Versión</string>
+    <string name="import_success">¡Datos importados correctamente!</string>
+    <string name="import_error">No se pudieron importar los datos</string>
+    <string name="delete_all_title">¿Borrar todo el historial?</string>
+    <string name="delete_all_message">Se eliminarán permanentemente todos tus registros. Esta acción no se puede deshacer.</string>
+    <string name="delete_all_confirm">Borrar todo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="other_apps">Otras apps</string>
+    <string name="other_apps_subtitle">Calculadora de impresión 3D</string>
+</resources>

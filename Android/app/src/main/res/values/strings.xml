@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Poop-A-Day</string>
+    <string name="tab_tracker">Tracker</string>
+    <string name="tab_log">Log</string>
+    <string name="tab_stats">Stats</string>
+    <string name="tab_profile">Profile</string>
+    <string name="today">today</string>
+    <string name="tap_the_toilet">Tap the toilet!</string>
+    <string name="history_title">History 💩</string>
+    <string name="statistics_title">Statistics 📊</string>
+    <string name="stat_today">Today</string>
+    <string name="stat_this_week">This Week</string>
+    <string name="stat_this_month">This Month</string>
+    <string name="stat_this_year">This Year</string>
+    <string name="streak_days">day streak</string>
+    <string name="total_logs">total logs</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="export_data">Export data</string>
+    <string name="import_data">Import data</string>
+    <string name="version">Version</string>
+    <string name="import_success">Data imported successfully!</string>
+    <string name="import_error">Could not import data</string>
+    <string name="delete_all_title">Delete all history?</string>
+    <string name="delete_all_message">This will permanently delete all your records. This action cannot be undone.</string>
+    <string name="delete_all_confirm">Delete all</string>
+    <string name="cancel">Cancel</string>
+    <string name="other_apps">Other apps</string>
+    <string name="other_apps_subtitle">3D printing calculator</string>
+</resources>
